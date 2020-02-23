@@ -10,3 +10,6 @@
 - DB(3 years): MSSQL, Postgress, T-SQL
 - Networks(3 years): CCNA, CCNP
 - OS: Unix like
+
+## Languages:
+English - Speaking/Writing - B1

@@ -9,7 +9,7 @@
 - Backend(4 years): Perl, PHP, Ruby
 - DB(3 years): MSSQL, Postgress, T-SQL
 - Networks(3 years): CCNA, CCNP
-- OS: Unix like
+- OS: Unix
 
 ## Languages:
 English: Speaking - B1, Writing - B1

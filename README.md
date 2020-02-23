@@ -1,1 +1,1 @@
-# rsschool-cv
+https://luckydevil13.github.io/rsschool-cv/cv

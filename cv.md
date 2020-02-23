@@ -12,4 +12,4 @@
 - OS: Unix like
 
 ## Languages:
-English - Speaking/Writing - B1
+English: Speaking - B1, Writing - B1
